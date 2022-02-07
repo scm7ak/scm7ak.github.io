@@ -1,0 +1,3 @@
+
+RedirectMatch "^/mail/?$" "http://www.oswplanthire.co.uk/webmail"
+RedirectMatch "^/cp/?$" "http://oswplanthire.co.uk/cp"
